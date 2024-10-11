@@ -1,0 +1,103 @@
+[
+    {
+        "name": "SDXL",
+        "type": "real",
+        "id": "128078"
+    },
+    {
+        "name": "Illuminati Diffusion v1.1",
+        "type": "artistic",
+        "id": "13259"
+    },
+    {
+        "name": "ToonYou",
+        "type": "anime",
+        "id": "125771"
+    },
+    {
+        "name": "AnythingXL",
+        "type": "anime",
+        "id": "384264"
+    },
+    {
+        "name": "Meina-Mix",
+        "type": "anime",
+        "id": "119057"
+    },
+    {
+        "name": "CetusMix-WF2",
+        "type": "anime",
+        "id": "105924"
+    },
+    {
+        "name": "TPonyai-v5.5",
+        "type": "anime",
+        "id": "593760"
+    },
+    {
+        "name": "PrimeMix-v2.1",
+        "type": "anime",
+        "id": "67388"
+    },
+    {
+        "name": "HassakuXL-v1.3",
+        "type": "anime",
+        "id": "376031"
+    },
+    {
+        "name": "YesMix-v1.6",
+        "type": "anime",
+        "id": "25571"
+    },
+    {
+        "name": "AutismMix-SDXL",
+        "type": "anime",
+        "id": "324619"
+    },
+    {
+        "name": "Pony-v6",
+        "type": "anime",
+        "id": "290640"
+    },
+    {
+        "name": "AnyMiniPasky",
+        "type": "anime",
+        "id": "42726"
+    },
+    {
+        "name": "Js2Prony",
+        "type": "anime",
+        "id": "280321"
+    },
+    {
+        "name": "Autism-Mix-SDXL",
+        "type": "anime",
+        "id" : "288584"
+    },
+    {
+        "name": "T-ponynai3",
+        "type": "anime",
+        "id": "317902"
+    },
+    {
+        "name": "Midkemia",
+        "type": "anime",
+        "id" : "447522"
+    },
+    {
+        "name": "AutismMixXL",
+        "type": "anime",
+        "id" : "288584"
+    },
+    {
+        "name": "Flux1",
+        "type": "real",
+        "id" : "618692"
+    },
+    {
+        "name": "Butapony",
+        "type": "anime",
+        "id"  : "764001"
+    }
+]
+
